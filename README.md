@@ -32,6 +32,8 @@ A comprehensive stock price analysis and predictive modeling system with real-ti
 - **Ensemble Model** - Voting regressor combining all models
 - Feature importance analysis
 - 30-day price forecasts
+<img width="1599" height="744" alt="image" src="https://github.com/user-attachments/assets/b89cd6aa-9716-41c7-beeb-a83400aa0b9a" />
+
 
 ###  Real-Time Monitoring
 - Live price updates via WebSocket
@@ -41,6 +43,8 @@ A comprehensive stock price analysis and predictive modeling system with real-ti
   - RSI Oversold/Overbought
   - Volume spikes
   - Price movements
+<img width="1598" height="745" alt="image" src="https://github.com/user-attachments/assets/89d0dbf1-89ca-4a2e-a586-ca180d0998b6" />
+
 
 ### Portfolio Optimization
 - Modern Portfolio Theory implementation
@@ -48,6 +52,8 @@ A comprehensive stock price analysis and predictive modeling system with real-ti
 - Efficient frontier visualization
 - Weight distribution tables
 - Investment allocation ($10k example)
+<img width="1591" height="747" alt="image" src="https://github.com/user-attachments/assets/246e38c4-c1a0-43db-a65d-85634d819509" />
+
 
 ### Interactive Dashboard
 - Built with Flask + Socket.IO
@@ -55,7 +61,9 @@ A comprehensive stock price analysis and predictive modeling system with real-ti
 - Responsive design
 - Dark theme
 - Interactive Plotly charts
+<img width="1600" height="742" alt="image" src="https://github.com/user-attachments/assets/771b5c49-dba9-4422-92ba-d687c9c64156" />
 
-  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0b4a519e-df9b-4197-b933-f0d15051816d" />
+
+  
 
 
