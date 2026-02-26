@@ -56,3 +56,6 @@ A comprehensive stock price analysis and predictive modeling system with real-ti
 - Dark theme
 - Interactive Plotly charts
 
+  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0b4a519e-df9b-4197-b933-f0d15051816d" />
+
+
